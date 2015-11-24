@@ -14,7 +14,7 @@
     "Context",
     "Menu"
   ],
-  "license": "MIT",
+  "license": "GPL",
   "ignore": [
     "**/.*",
     "node_modules",
