@@ -1,0 +1,25 @@
+{
+  "name": "gmaps-bootstrap-contextmenu",
+  "homepage": "https://github.com/mapmelabs/gmaps-bootstrap-contextmenu",
+  "authors": [
+    "Nir Shub <nirshub@gmail.com>"
+  ],
+  "description": "Bootstrap port of Martin Pearman's Context Menu",
+  "main": "context-menu.js",
+  "moduleType": [],
+  "keywords": [
+    "Bootstrap",
+    "Google",
+    "Maps",
+    "Context",
+    "Menu"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
