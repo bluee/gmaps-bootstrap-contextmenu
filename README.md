@@ -14,7 +14,7 @@ The usage pattern consists of following steps:
    added to corresponding element types (menu, menu separator).
 
         var menuStyle = {
-			    menu: 'dropdown-menu',
+		menu: 'dropdown-menu',
         	menuSeparator: 'divider'
         };
 
