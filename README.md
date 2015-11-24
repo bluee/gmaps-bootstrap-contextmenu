@@ -1,4 +1,4 @@
-Boostrap Context Menu for Google Maps
+Bootstrap Context Menu for Google Maps
 ===========================
 
 This is a fork of [Martin Pearman's ContextMenu](http://code.martinpearman.co.uk/googlemapsapi/contextmenu/) and inspired by [Miloš's repository](https://github.com/knezmilos13/google-maps-api-contextmenu/)
