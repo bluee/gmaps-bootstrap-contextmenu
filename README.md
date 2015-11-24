@@ -1,8 +1,7 @@
 gmaps-bootstrap-contextmenu
 ===========================
 
-This is a fork of [Martin Pearman's ContextMenu](http://code.martinpearman.co.uk/googlemapsapi/contextmenu/)
-Inspired by the following [github repository](https://github.com/knezmilos13/google-maps-api-contextmenu/)
+This is a fork of [Martin Pearman's ContextMenu](http://code.martinpearman.co.uk/googlemapsapi/contextmenu/) and inspired by [Miloš's repository](https://github.com/knezmilos13/google-maps-api-contextmenu/)
 
 The context menu is rewritten to work well with Bootstrap 3.
 
