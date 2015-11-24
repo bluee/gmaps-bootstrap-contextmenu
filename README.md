@@ -1,4 +1,4 @@
-google-maps-api-contextmenu
+gmaps-bootstrap-contextmenu
 ===========================
 
 This is a fork of [Martin Pearman's ContextMenu](http://code.martinpearman.co.uk/googlemapsapi/contextmenu/)
