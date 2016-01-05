@@ -78,8 +78,9 @@ ContextMenu.prototype.onAdd=function(){
 			menuItem.id=values.id;
 		}
 		menuItem.style.cssText='cursor:pointer; white-space:nowrap';
-		menuItem.onclick=function(){
+		menuItem.onclick=function(e){
 			google.maps.event.trigger($this, 'menu_item_selected', $this.position_, values.eventName);
+			e.stopPropagation();
 		};
 
 		var menuItemWrapper = document.createElement('li');
@@ -115,8 +116,8 @@ ContextMenu.prototype.onAdd=function(){
 	this.isVisible_=false;
 	this.menu_=menu;
 	this.position_=new google.maps.LatLng(0, 0);
-	
-	google.maps.event.addListener(this.map_, 'click', function(mouseEvent){
+
+	document.body.addEventListener('click', function(mouseEvent){
 		$this.hide();
 	});
 	
