@@ -52,6 +52,7 @@ The usage pattern consists of following steps:
         			// freak out
         			break;
         	}
+        	contextMenu.hide();
         });
 
 5. Show menu on some user event, e.g. right click on map. Method show accepts
